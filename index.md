@@ -1,8 +1,6 @@
 <img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
-# Syllabus - ESIIL Stars Internship 2024
-
-## Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2023! 
+# Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2024! 
 
 We are excited to have you in class for the next 5 months as we introduce you to **Earth and Environmental Data Science (EDS)** fundamentals using <a href="https://www.python.org/" target="_blank">**Python**</a>. 
 
