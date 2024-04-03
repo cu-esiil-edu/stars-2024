@@ -13,7 +13,7 @@ nav_order: 2
   src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" 
   width="125" height="125">
   
-  * Interim Director of Education - Earth Lab; ESIIL
+  * Interim Director of Education
   * <a href = "mailto:naqu1888@colorado.edu" target="_blank">**Email** </a>
   * <a href = "https://earthlab.colorado.edu/our-team/nathan-quarderer" target="_blank">**Website**</a>
 
@@ -27,7 +27,7 @@ nav_order: 2
   src="https://avatars.githubusercontent.com/u/3465768?v=4" 
   width="125" height="125">
   
-* Education Trainer - Earth Lab; ESIIL
+* Education Trainer
 * <a href="mailto:elcu4811@colorado.edu" target = "_blank">**Email**</a>
 * <a href="https://earthlab.colorado.edu/our-team/elsa-culler" target="_blank">**Website**</a>
 
@@ -40,13 +40,11 @@ nav_order: 2
   src="https://esiil.org/sites/default/files/inline-images/20221003_143744_1.jpg" 
   width="125" height="125">
   
-  * ESIIL Tribal Resilience Data Scientist - ESIIL
+  * ESIIL Tribal Resilience Data Scientist
   * <a href="mailto: jasa9153@colorado.edu" target="_blank">**Email**
   * <a href="https://esiil.org/our-team" target="_blank">**Website**</a>
 
 ***
-
-
 
 ### **Katherine Halama** 
 
@@ -55,13 +53,11 @@ nav_order: 2
   src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" 
   width="125" height="125">
   
-  * Education Program Coordinator - Earth Lab
+  * Education Program Coordinator
   * <a href="mailto: kaha4475@colorado.edu" target="_blank">**Email**</a>
   * <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
 
 ***
-
-<img style="float: right;" src="https://www.colorado.edu/geography/sites/default/files/styles/small/public/people/nathan_korinek_headshot.jpg?itok=l70G8Z8e" width="125" height="125">  
 
 ## Metropolitan State University of Denver (MSU)
 
@@ -71,7 +67,8 @@ nav_order: 2
 
 ***
 
-### **ESIIL Interns** 
+### **ESIIL Interns**
+
 (please add your profiles)
 
 ***
@@ -82,7 +79,6 @@ nav_order: 2
 
 ### **Faculty Mentors** 
 (please add your profiles)
-
 
 ***
 
