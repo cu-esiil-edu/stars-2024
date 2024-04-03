@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meet Our Team
-nav_order: 1
+nav_order: 2
 ---
 
 ## ESIIL
