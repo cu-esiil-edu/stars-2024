@@ -4,9 +4,10 @@ title: Syllabus Home
 nav_order: 1
 ---
 
-<img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 # Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2024! 
+
+<img src="/img/ESIIL_Stars_logo.png" height="200px" />
 
 We are excited to have you in class for the next 5 months as we introduce you to **Earth and Environmental Data Science (EDS)** fundamentals using <a href="https://www.python.org/" target="_blank">**Python**</a>. 
 
@@ -15,6 +16,9 @@ This work represents a partnership between **Oglala Lakota College** (<a href="h
 We appreciate these partnerships and look forward to working with you all!
 
 > ESIIL Stars is funded by the **National Science Foundation** (<a href="https://nsf.gov/" target="_blank">**NSF**</a>).
+
+
+<img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 ## ESIIL is about building an inclusive Earth and Environmental Data Science (EDS) community
 
