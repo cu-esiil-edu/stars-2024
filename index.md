@@ -23,16 +23,9 @@ ESIIL Stars aims to meet the following objectives through technical training and
   * Answer relevant **GIS and Earth/Environmental science** questions
   * **Diversify** the EDS workforce
   * **Build capacity** to teach & learn EDS at partner institutions
-
-***
-
-## Spring Training Assignments
-
-  Coming soon!
-  
-***
   
 ## Internship Expectations
+
 * **Spring Training** (March - May)
   * **5-10** hrs/wk
   * Attend weekly team check-ins
@@ -48,7 +41,7 @@ ESIIL Stars aims to meet the following objectives through technical training and
   
 ***
 
-## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
+## Stars **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
   
 <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
 
