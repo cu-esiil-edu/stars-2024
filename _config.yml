@@ -1,15 +1,4 @@
+title: ESIIL Stars Syllabus
 remote_theme: "just-the-docs/just-the-docs"
 lang: en-US
-title: ESIIL Stars Syllabus
 logo: "/img/ESIIL_Stars_logo.png"
-favicon_ico: "/img/ESIIL_Stars_logo.png"
-
-# Footer content
-footer_content: "Copyright &copy; ESIIL 2024.
-
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/cu-esiil-edu/stars-2024" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
