@@ -61,6 +61,11 @@ nav_order: 2
 
 ## Metropolitan State University of Denver (MSU)
 
+<img 
+  style="float: right;" 
+  src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/MSU_Denver_Roadrunners.svg/2880px-MSU_Denver_Roadrunners.svg.png" 
+  width="140" height="125">
+
 ### **Faculty Mentors** 
  
 (please add your profiles)
