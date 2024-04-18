@@ -121,3 +121,14 @@ nav_order: 2
 
 ## **Advanced Interns** 
 (please add your profiles)
+
+### **Summer Dupree** 
+
+<img 
+  style="float: right;" 
+  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png" 
+  width="auto" height="125">
+  
+  * OLC - Conservation Biology - Junior
+  * <a href="mailto: sdupree27886@olc.edu" target="_blank">**Email**</a>
+  * <a href="https://sdupree27886.github.io/sdupree/" target="_blank">**Website**</a>
