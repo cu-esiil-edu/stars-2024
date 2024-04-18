@@ -90,6 +90,19 @@ nav_order: 2
 ### **ESIIL Interns** 
 (please add your profiles)
 
+
+
+### **Angelina Wade** 
+
+<img 
+  style="float: right;" 
+  src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
+  width="132" height="125">
+  
+  * Indian Law - Sophmore
+  * <a href="mailto: awade29716@olc.edu" target="_blank">**Email**</a>
+  * <a href="https://angelinawade12.github.io/" target="_blank">**Website**</a>
+  
 ***
 
 ## United Tribes Technical College (UTTC)
