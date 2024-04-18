@@ -62,7 +62,7 @@ nav_order: 2
 ## Metropolitan State University of Denver (MSU)
 
 <img 
-  style="float: right;" 
+  style="float: " 
   src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/MSU_Denver_Roadrunners.svg/2880px-MSU_Denver_Roadrunners.svg.png" 
   width="140" height="125">
 
@@ -90,11 +90,21 @@ nav_order: 2
 ### **ESIIL Interns** 
 (please add your profiles)
 
+***
+
 ## United Tribes Technical College (UTTC)
 
 <img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
 
 ### **Faculty Mentors** 
+(please add your profiles)
+
+***
 
 ### **ESIIL Interns** 
+(please add your profiles)
+
+***
+
+### **Advanced Interns** 
 (please add your profiles)
