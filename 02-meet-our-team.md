@@ -126,8 +126,8 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png"> 
-  width="125" height="125">
+  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png" 
+  width="auto" height="125">
   
   * OLC - Conservation Biology - Junior
   * <a href="mailto: sdupree27886@olc.edu" target="_blank">**Email**</a>
