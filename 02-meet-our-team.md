@@ -68,7 +68,16 @@ nav_order: 2
 
 ### **Faculty Mentors** 
  
-(please add your profiles)
+### **David Parr** 
+
+<img 
+  style="float: right;" 
+  src="https://daveparr.com/wp-content/uploads/2023/12/1629988354360.jpg" 
+  width="132" height="125">
+  
+  * Senior Lecturer of Geography and GIS
+  * <a href="mailto: githubesiil@fishslappingdance.com" target="_blank">**Email**</a>
+  * <a href="https://daveparr.com/" target="_blank">**Website**</a>
 
 ***
 
