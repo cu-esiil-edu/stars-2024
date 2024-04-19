@@ -126,6 +126,22 @@ nav_order: 2
 ### **ESIIL Interns** 
 (please add your profiles)
 
+### **Marshall Smith** 
+
+<img 
+  style="float: right;" 
+  src="https://instagram.ffar1-2.fna.fbcdn.net/v/t51.2885-19/387693032_320832033875982_841846565515082481_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ffar1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=jsUXJym92bQAb4jBJ-T&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDHVpWSAdKdsuaKrlik7MVSHOVGZ0mYPqqMlAz3NOGz2w&oe=66287361&_nc_sid=8b3546" 
+  width="132" height="125">
+  
+  * Environmental Science & Research - Senior
+  * <a href="mailto: smith.marshall@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://orduck31.github.io/" target="_blank">**Website**</a>
+
+
+
+
+
+
 ***
 
 ## **Advanced Interns** 
