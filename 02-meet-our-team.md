@@ -145,7 +145,17 @@ nav_order: 2
 ***
 
 ## **Advanced Interns** 
-(please add your profiles)
+
+### **Kianna Stroh** 
+
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/128726312?v=4" 
+  width="132" height="125">
+  
+  * Environmental Science & Research - Senior
+  * <a href="mailto: stroh.kianna@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://kistroh.github.io/Kistroh-esiil-stars-webpage/" target="_blank">**Website**</a>
 
 ### **Summer Dupree** 
 
