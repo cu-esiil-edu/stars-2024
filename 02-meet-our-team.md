@@ -86,7 +86,6 @@ nav_order: 2
 (please add your profiles)
 
 
-
 ### **Paw Moo** 
 
 <img 
@@ -99,6 +98,18 @@ nav_order: 2
   * <a href="https://pawhekmoo.github.io/" target="_blank">**Website**</a>
 
 ***
+
+###  **Tesia Mancosky**
+
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/167322827?v=4" 
+  width="200" >
+  
+  * Applied Geology - Senior
+  * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="https://tes-ani.github.io/" target="_blank">**Website**</a>
+
   
 ## Oglala Lakota College (OLC)
 
