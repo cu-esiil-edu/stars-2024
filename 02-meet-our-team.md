@@ -138,6 +138,19 @@ nav_order: 2
   
 ***
 
+### **Summer Rain Afraid Of Hawk**
+
+<img 
+  style="float: right;" 
+  src="https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/blob/main/img/Buffalo%20Harvest.jpg" 
+  width="132" height="125">
+  
+
+  * Natural Science emphasis Conservation Biology - Senior
+  * <a href="mailto: safraid19582@olc.edu" target="_blank">**Email**</a>
+  * <a href="https://summerafraidofhawk.github.io/" target="_blank">**Website**</a>
+  
+
 ## United Tribes Technical College (UTTC)
 
 <img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
