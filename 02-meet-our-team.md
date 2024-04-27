@@ -209,7 +209,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" 
+  src="https://avatars.githubusercontent.com/u/165216453?s=400&u=c0a5a77805ace1d65559f9e8c93fcbe70d960b10&v=4" 
   width="125" height="125">
   
   * 2024 Summer ESIIL Test Intern
