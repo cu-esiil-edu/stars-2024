@@ -173,11 +173,6 @@ nav_order: 2
   * <a href="mailto: smith.marshall@stu.uttc.edu" target="_blank">**Email**</a>
   * <a href="https://orduck31.github.io/" target="_blank">**Website**</a>
 
-
-
-
-
-
 ***
 
 ## **Advanced Interns** 
@@ -193,6 +188,8 @@ nav_order: 2
   * <a href="mailto: stroh.kianna@stu.uttc.edu" target="_blank">**Email**</a>
   * <a href="https://kistroh.github.io/Kistroh-esiil-stars-webpage/" target="_blank">**Website**</a>
 
+***
+
 ### **Summer Dupree** 
 
 <img 
@@ -204,6 +201,7 @@ nav_order: 2
   * <a href="mailto: sdupree27886@olc.edu" target="_blank">**Email**</a>
   * <a href="https://sdupree27886.github.io/sdupree/" target="_blank">**Website**</a>
 
+***
 
 ### **ESIIL Test Student** 
 
