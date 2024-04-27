@@ -103,7 +103,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://avatars.githubusercontent.com/u/167322827?v=4" 
-  width="200" >
+  width="125">
   
   * Applied Geology - Senior
   * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**</a>
