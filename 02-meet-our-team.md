@@ -109,6 +109,16 @@ nav_order: 2
   * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://tes-ani.github.io/" target="_blank">**Website**</a>
 
+### **Riley Sundberg** 
+
+<img 
+  style="float: right;" 
+  src="https://github.com/riley-sundberg022/riley-sundberg22.github.io/blob/main/img/RiBeav.jpg?raw=true" 
+  width="132" height="125">
+  
+  * BS of Biology- Senior
+  * <a href="mailto: riley.sundberg22@gmail.com" target="_blank">**Email**</a>
+  * <a href="https://riley-sundberg022.github.io/riley-sundberg22.github.io/">**Website**</a>
   
 ## Oglala Lakota College (OLC)
 
