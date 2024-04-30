@@ -118,7 +118,7 @@ nav_order: 2
   
   * BS of Biology- Senior
   * <a href="mailto: riley.sundberg22@gmail.com" target="_blank">**Email**</a>
-  * <a href="https://github.com/riley-sundberg022">**Website**</a>
+  * <a href="https://riley-sundberg022.github.io/riley-sundberg22.github.io/">**Website**</a>
   
 ## Oglala Lakota College (OLC)
 
