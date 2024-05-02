@@ -212,6 +212,16 @@ nav_order: 2
   * <a href="https://sdupree27886.github.io/sdupree/" target="_blank">**Website**</a>
 
 ***
+### **Eva Weddell** 
+
+<img 
+  style="float: right;" 
+  src="https://user-images.githubusercontent.com/127869863/225917439-27c8abbd-e51c-4826-9f9a-bce48a1c4297.jpg" 
+  width="auto" height="125">
+  
+  * OLC - Conservation Biology Class of 2024
+  * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
+  * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
 
 ### **ESIIL Test Student** 
 
