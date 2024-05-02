@@ -151,7 +151,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/blob/main/img/Buffalo%20Harvest.jpg" 
+  src="https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/blob/main/img/Buffalo%20Harvest.jpg?raw=true" 
   width="132" height="125">
   
 
