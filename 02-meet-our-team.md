@@ -105,7 +105,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
+  src="https: 
   width="132" height="125">
   
   * Indian Law - Sophmore
@@ -125,6 +125,19 @@ nav_order: 2
 
 ### **ESIIL Interns** 
 (please add your profiles)
+
+
+### **Marshall Smith**
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/166548468?v=4"
+  width="132" height="125">
+  
+  * Environmental Science & Research - Senior
+  * <a href="mailto: smith.marshall@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://orduck31.github.io/" target="_blank">**Website**</a>
+
+
 
 ***
 
