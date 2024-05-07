@@ -176,7 +176,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://instagram.ffar1-2.fna.fbcdn.net/v/t51.2885-19/387693032_320832033875982_841846565515082481_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ffar1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=jsUXJym92bQAb4jBJ-T&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDHVpWSAdKdsuaKrlik7MVSHOVGZ0mYPqqMlAz3NOGz2w&oe=66287361&_nc_sid=8b3546" 
+  src="https://avatars.githubusercontent.com/u/166548468?v=4" 
   width="132" height="125">
   
   * Environmental Science & Research - Senior
