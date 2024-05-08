@@ -138,7 +138,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
+  src="https: 
   width="132" height="125">
   
   * Indian Law - Sophmore
@@ -172,8 +172,8 @@ nav_order: 2
 ### **ESIIL Interns** 
 (please add your profiles)
 
-### **Marshall Smith** 
 
+### **Marshall Smith**
 <img 
   style="float: right;" 
   src="https://avatars.githubusercontent.com/u/166548468?v=4" 
