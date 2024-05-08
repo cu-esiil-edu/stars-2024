@@ -240,6 +240,7 @@ nav_order: 2
   * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
 
   ***
+  
   ### **Rosie Patrick**
 
   <img 
