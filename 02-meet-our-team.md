@@ -220,7 +220,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png" 
+  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png?raw=true" 
   width="auto" height="125">
   
   * OLC - Conservation Biology - Junior
