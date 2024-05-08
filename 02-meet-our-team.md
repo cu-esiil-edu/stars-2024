@@ -138,7 +138,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https: 
+  src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
   width="132" height="125">
   
   * Indian Law - Sophmore
