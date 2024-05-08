@@ -63,7 +63,7 @@ nav_order: 2
 <img 
   style="float: " 
   src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/MSU_Denver_Roadrunners.svg/2880px-MSU_Denver_Roadrunners.svg.png" 
-  width="140" height="125">
+  width="125" height="125">
 
 ### **Faculty Mentors** 
  
@@ -116,7 +116,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://github.com/riley-sundberg022/riley-sundberg22.github.io/blob/main/img/RiBeav.jpg?raw=true" 
-  width="132" height="125">
+  width="125" height="125">
   
   * BS of Biology- Senior
   * <a href="mailto:riley.sundberg22@gmail.com" target="_blank">**Email**</a>
@@ -129,7 +129,7 @@ nav_order: 2
   <img
     style="float: right;" 
     src="https://rachelsadler.github.io/img/profilephoto.jpg" 
-    width="132" height="125">
+    width="125" height="125">
   
   * GIS Certificate 
   * <a href="mailto:rsadler4@msudenver.edu" target="_blank">**Email**</a>
@@ -155,7 +155,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
-  width="132" height="125">
+  width="125" height="125">
   
   * Indian Law - Sophmore
   * <a href="mailto: awade29716@olc.edu" target="_blank">**Email**</a>
@@ -168,7 +168,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/blob/main/img/Buffalo%20Harvest.jpg?raw=true" 
-  width="132" height="125">
+  width="125" height="125">
   
 
   * Natural Science emphasis Conservation Biology - Senior
@@ -193,7 +193,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://avatars.githubusercontent.com/u/166548468?v=4" 
-  width="132" height="125">
+  width="125" height="125">
   
   * Environmental Science & Research - Senior
   * <a href="mailto: smith.marshall@stu.uttc.edu" target="_blank">**Email**</a>
@@ -208,7 +208,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://avatars.githubusercontent.com/u/128726312?v=4" 
-  width="132" height="125">
+  width="125" height="125">
   
   * Environmental Science & Research - Senior
   * <a href="mailto: stroh.kianna@stu.uttc.edu" target="_blank">**Email**</a>
@@ -221,7 +221,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png?raw=true" 
-  width="125" height="175">
+  width="125" height="125">
   
   * OLC - Conservation Biology - Junior
   * <a href="mailto: sdupree27886@olc.edu" target="_blank">**Email**</a>
