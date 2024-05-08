@@ -228,6 +228,7 @@ nav_order: 2
   * <a href="https://sdupree27886.github.io/sdupree/" target="_blank">**Website**</a>
 
 ***
+
 ### **Eva Weddell** 
 
 <img 
@@ -239,14 +240,14 @@ nav_order: 2
   * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
   * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
 
- ***
+***
 
- ### **Rosie Patrick**
+### **Rosie Patrick**
 
-  <img 
-    style="float: right;" 
-    src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
-    width="125" height="125">
+<img 
+  style="float: right;" 
+  src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
+  width="125" height="125">
   
   * MSU Denver- Environmental Science Major, Biology Minor
   * Class of Spring 2024
