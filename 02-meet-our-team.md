@@ -93,7 +93,7 @@ nav_order: 2
   width="125" height="125">
   
   * Environmental Science - Senior
-  * <a href="mailto: pmoo1@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="mailto:pmoo1@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://pawhekmoo.github.io/" target="_blank">**Website**</a>
 
 ***
@@ -106,8 +106,10 @@ nav_order: 2
   width="125">
   
   * Applied Geology - Senior
-  * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="mailto:tmancosk@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://tes-ani.github.io/" target="_blank">**Website**</a>
+
+***
 
 ### **Riley Sundberg** 
 
@@ -117,9 +119,23 @@ nav_order: 2
   width="132" height="125">
   
   * BS of Biology- Senior
-  * <a href="mailto: riley.sundberg22@gmail.com" target="_blank">**Email**</a>
+  * <a href="mailto:riley.sundberg22@gmail.com" target="_blank">**Email**</a>
   * <a href="https://riley-sundberg022.github.io/riley-sundberg22.github.io/">**Website**</a>
+
+  ***
   
+### **Rachel Sadler**
+
+  <img
+    style="float: right;" 
+    src="https://rachelsadler.github.io/img/profilephoto.jpg" 
+    width="132" height="125">
+  
+  * GIS Certificate 
+  * <a href="mailto:rsadler4@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="https://rachelsadler.github.io/" target="_blank">**Website**</a>
+
+***
 ## Oglala Lakota College (OLC)
 
 ![Oglala Lakota College](https://www.olc.edu/theme/olc/images/logo.png)
@@ -223,18 +239,21 @@ nav_order: 2
   * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
   * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
 
-  ***
+ ***
+
  ### **Rosie Patrick**
 
   <img 
-  style="float: right;" 
-  src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
-  width="125" height="125">
+    style="float: right;" 
+    src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
+    width="125" height="125">
   
   * MSU Denver- Environmental Science Major, Biology Minor
   * Class of Spring 2024
   * <a href="mailto:kpatric4@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://github.com/finalfemme" target="_blank">**Website**</a>
+
+***
 
 ### **ESIIL Test Student** 
 
