@@ -176,7 +176,7 @@ nav_order: 2
 ### **Marshall Smith**
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/166548468?v=4"
+  src="https://avatars.githubusercontent.com/u/166548468?v=4" 
   width="132" height="125">
   
   * Environmental Science & Research - Senior
