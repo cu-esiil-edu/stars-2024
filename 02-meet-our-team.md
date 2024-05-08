@@ -93,7 +93,7 @@ nav_order: 2
   width="125" height="125">
   
   * Environmental Science - Senior
-  * <a href="mailto: pmoo1@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="mailto:pmoo1@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://pawhekmoo.github.io/" target="_blank">**Website**</a>
 
 ***
@@ -106,7 +106,7 @@ nav_order: 2
   width="125">
   
   * Applied Geology - Senior
-  * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="mailto:tmancosk@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://tes-ani.github.io/" target="_blank">**Website**</a>
 
 ***
@@ -119,19 +119,20 @@ nav_order: 2
   width="132" height="125">
   
   * BS of Biology- Senior
-  * <a href="mailto: riley.sundberg22@gmail.com" target="_blank">**Email**</a>
+  * <a href="mailto:riley.sundberg22@gmail.com" target="_blank">**Email**</a>
   * <a href="https://riley-sundberg022.github.io/riley-sundberg22.github.io/">**Website**</a>
 
   ***
-  ### **Rachel Sadler**
+  
+### **Rachel Sadler**
 
   <img
     style="float: right;" 
-    src="https://github.com/rachelsadler/rachelsadler.github.io/blob/main/img/profilephoto.jpg" 
+    src="https://rachelsadler.github.io/img/profilephoto.jpg" 
     width="132" height="125">
   
   * GIS Certificate 
-  * <a href="mailto: rsadler4@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="mailto:rsadler4@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://rachelsadler.github.io/" target="_blank">**Website**</a>
 
 ***
