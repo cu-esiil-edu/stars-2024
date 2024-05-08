@@ -239,6 +239,19 @@ nav_order: 2
   * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
   * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
 
+  ***
+  ### **Rosie Patrick**
+
+  <img 
+  style="float: right;" 
+  src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
+  width="125" height="125">
+  
+  * MSU Denver- Environmental Science Major, Biology Minor
+  * Class of Spring 2024
+  * <a href="mailto: kpatric4@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="https://github.com/finalfemme" target="_blank">**Website**</a>
+
 ### **ESIIL Test Student** 
 
 <img 
