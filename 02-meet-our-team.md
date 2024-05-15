@@ -181,7 +181,15 @@ nav_order: 2
 <img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
 
 ### **Faculty Mentors** 
-(please add your profiles)
+### **Jess Logan** 
+<img 
+  style="float: right;" 
+  src="https://jlogannd.github.io/img/IMG_8030.jpg"
+  width="125">
+  
+  * Business Administration Instructor
+  * <a href="mailto: jlogan@uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://jlogannd.github.io/" target="_blank">**Website**</a>
 
 ***
 
