@@ -209,6 +209,16 @@ nav_order: 2
 
 ***
 
+### **Ebony Schultz**
+<img  
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/166164323?v=4" 
+  width="125" height="125">" 
+
+  * Environmental Science & Research - Junior
+  * <a href="mailto: schultz.ebony@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://ESchultz2024.github.io/" target="_blank">**Website**</a>
+
 ## **Advanced Interns** 
 
 ### **Kianna Stroh** 
