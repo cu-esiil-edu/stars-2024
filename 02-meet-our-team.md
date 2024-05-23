@@ -209,6 +209,18 @@ nav_order: 2
 
 ***
 
+### **Abraham Weasel**
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/166767167?v=4" 
+  width="125" height="125">
+  
+  * Computer Information Technology
+  * <a href="mailto: weasel.abraham@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://abrahamweasel.github.io/" target="_blank">**Website**</a>
+  
+***
+
 ### **Ebony Schultz**
 <img  
   style="float: right;" 
@@ -218,6 +230,8 @@ nav_order: 2
   * Environmental Science & Research - Junior
   * <a href="mailto: schultz.ebony@stu.uttc.edu" target="_blank">**Email**</a>
   * <a href="https://ESchultz2024.github.io/" target="_blank">**Website**</a>
+
+***
 
 ## **Advanced Interns** 
 
