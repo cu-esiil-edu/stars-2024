@@ -66,7 +66,17 @@ nav_order: 2
   width="125" height="125">
 
 ### **Faculty Mentors** 
- 
+
+### **Sylvia Brady**
+<img 
+  style="float: right;" 
+  src="https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/blob/main/img/Brady_globe_2024.jpg" 
+  width="125" height="125">
+  
+  * Senior Lecturer of Geography
+  * <a href="mailto: sbrady16@msudenver.edy" target="_blank">**Email**</a>
+  * <a href="https://sarriaga920.github.io">**Website**</a>
+
 ### **David Parr** 
 
 <img 
