@@ -75,7 +75,7 @@ nav_order: 2
   
   * Senior Lecturer of Geography
   * <a href="mailto: sbrady16@msudenver.edy" target="_blank">**Email**</a>
-  * <a href="https://sarriaga920.github.io">**Website**</a>
+  * <a href="https://sarriaga920/sarriaga920-esiil-stars-webpage.github.io">**Website**</a>
 
 ### **David Parr** 
 
