@@ -191,6 +191,16 @@ nav_order: 2
   * <a href="mailto: jlogan@uttc.edu" target="_blank">**Email**</a>
   * <a href="https://jlogannd.github.io/" target="_blank">**Website**</a>
 
+### **Emily Biggane, PhD** 
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/66485414?s=400&u=00070fe128f50bf4ac6930de6978be1a4d463abc&v=4"
+  width="125">
+  
+  * Research Faculty, Intertribal Research and Resource Center
+  * <a href="mailto: ebiggane@uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**Website**</a>  
+
 ***
 
 ### **ESIIL Interns** 
