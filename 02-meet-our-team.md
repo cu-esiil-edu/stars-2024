@@ -191,6 +191,8 @@ nav_order: 2
   * <a href="mailto: jlogan@uttc.edu" target="_blank">**Email**</a>
   * <a href="https://jlogannd.github.io/" target="_blank">**Website**</a>
 
+***
+
 ### **Emily Biggane, PhD** 
 <img 
   style="float: right;" 
@@ -235,7 +237,7 @@ nav_order: 2
 <img  
   style="float: right;" 
   src="https://avatars.githubusercontent.com/u/166164323?v=4" 
-  width="125" height="125">" 
+  width="125" height="125"> 
 
   * Environmental Science & Research - Junior
   * <a href="mailto: schultz.ebony@stu.uttc.edu" target="_blank">**Email**</a>
