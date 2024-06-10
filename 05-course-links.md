@@ -7,6 +7,7 @@ nav_order: 5
 ## **Course Assignments**
 * [Climate Change](https://classroom.github.com/a/ux6Okxy8)
 * [Species Distribution](https://classroom.github.com/a/yYBfP46Q)
+* [Vegetative Health](https://classroom.github.com/a/sRVok2v8)
 
 ## **Stars Textbook:**
  > <a 
