@@ -70,7 +70,7 @@ nav_order: 2
 ### **Sylvia Brady**
 <img 
   style="float: right;" 
-  src="https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/blob/main/img/Brady_globe_2024.jpg" 
+  src="https://avatars.githubusercontent.com/u/86791108?s=400&u=905e17cf3d868a13cd944d7be4508acb2a590668&v=4" 
   width="125" height="125">
   
   * Senior Lecturer of Geography
