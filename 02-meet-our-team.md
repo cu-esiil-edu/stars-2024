@@ -255,6 +255,16 @@ nav_order: 2
 
 ***
 
+### **Skylar Albers**
+<img 
+  style="float: right;" 
+  src="https://avatars.githubusercontent.com/u/166766965?s=400&u=e4cebfdc9d137f08962108c8e334d832bd2112fd&v=4"  
+  width="125" height="125">
+  
+  * Computer Information Technology
+  * <a href="mailto: albers.skylar@stu.uttc.edu" target="_blank">**Email**</a>
+  * <a href="https://salbers34.github.io/" target="_blank">**Website**</a>
+  
 ## **Advanced Interns** 
 
 ### **Kianna Stroh** 
