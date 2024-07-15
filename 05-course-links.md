@@ -46,4 +46,7 @@ nav_order: 5
 | June 3   | Species Distribution cont. | [OLC](https://cuboulder.zoom.us/rec/share/HtZjrrmKS6OG2JbYLr6jzrbyXlBE0bbxOgz03IujKD-tkqjvfyJ1bxYQ75OxhZOj.mCE5WZhEQg-BRTN3); [UTTC](https://cuboulder.zoom.us/rec/share/STLz1rC3DBNDB3Z5p3PCYacP026CqT10v3JGwjRwyLJ2U8nHNwrDdLzbhHKOcp4l.qX4uB18rNMQMWa2O) |
 | June 10 | Vegetation | [MSU](https://cuboulder.zoom.us/rec/share/D3uylQV3CxJP0jqv7lxtMS655p62QkSCvWw1KV3bJTrAjyzd9GIwdxAHKxZahugo.XYKEixUSGesOCMFn); [OLC](https://cuboulder.zoom.us/rec/share/XCgGWpt7NSSvOMgUCbhZ49NPdyXxinp4kMSQj-oWl7SL9YH9eWtKs6b8xJQ41lNt.YEaqasbIl4484YPY) |
 | June 24 | All-Hands Meeting - Project Pitches | [link](https://cuboulder.zoom.us/rec/share/lNltTH4p_Sonpl2sRGkAW3k6jN2f84N9532KxzXMfFfmh3Ffpfrb-ol_1zspxsE2.REznrsWWBvgjtQr9)|
-
+| July 8 | All-Hands Meeting - Data Party | [link](https://cuboulder.zoom.us/rec/share/zFuQOwNTuMCEYP446eKLbWCavLZ9lnU_bGNmKo8WnDdbw4Nvy1GhnS_VD-c_FcIr.I0-GPqrtK3EXqfFz) |
+| July 15 | All-Hands Meeting - Initial Findings | [link]() |
+| July 22 | All-Hands Meeting - Practice Presentations | [link]() |
+| July 29 | All-Hands Meeting - Final Presentations | [link]() |
