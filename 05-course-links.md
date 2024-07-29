@@ -47,6 +47,6 @@ nav_order: 5
 | June 10 | Vegetation | [MSU](https://cuboulder.zoom.us/rec/share/D3uylQV3CxJP0jqv7lxtMS655p62QkSCvWw1KV3bJTrAjyzd9GIwdxAHKxZahugo.XYKEixUSGesOCMFn); [OLC](https://cuboulder.zoom.us/rec/share/XCgGWpt7NSSvOMgUCbhZ49NPdyXxinp4kMSQj-oWl7SL9YH9eWtKs6b8xJQ41lNt.YEaqasbIl4484YPY) |
 | June 24 | All-Hands Meeting - Project Pitches | [link](https://cuboulder.zoom.us/rec/share/lNltTH4p_Sonpl2sRGkAW3k6jN2f84N9532KxzXMfFfmh3Ffpfrb-ol_1zspxsE2.REznrsWWBvgjtQr9)|
 | July 8 | All-Hands Meeting - Data Party | [link](https://cuboulder.zoom.us/rec/share/zFuQOwNTuMCEYP446eKLbWCavLZ9lnU_bGNmKo8WnDdbw4Nvy1GhnS_VD-c_FcIr.I0-GPqrtK3EXqfFz) |
-| July 15 | All-Hands Meeting - Initial Findings | [link]() |
-| July 22 | All-Hands Meeting - Practice Presentations | [link]() |
+| July 15 | All-Hands Meeting - Initial Findings | [link](https://cuboulder.zoom.us/rec/share/NnxMcI4P9HtTsJqMO9niUILkD1Xossn5k25IZbBoCBz4YGlBdNTIzgyJ5Xhg8Xme.-iuwsNGMTdHEkB_4) |
+| July 22 | All-Hands Meeting - Practice Presentations | [link](https://cuboulder.zoom.us/rec/share/Fs-ejzvT0dS5XiPyba0crgmGHcmV4jDtEbGh49k4hl7mv8clOKO-_T0VpsWiNFo1.CrVTz1uKGh8KTZc_) |
 | July 29 | All-Hands Meeting - Final Presentations | [link]() |
